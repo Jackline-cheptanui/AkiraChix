@@ -1,0 +1,22 @@
+.quote{
+    color:black;
+font-weight: bold;
+font-style: italic;
+}
+
+.line{
+    background-color:purple;
+    height: 10px;
+}
+#About AkiraChix{
+    color: blue;
+}
+p{
+    color:green;
+}
+body{
+    background-color: bisque;
+}
+h{
+    background-color: grey;
+}
